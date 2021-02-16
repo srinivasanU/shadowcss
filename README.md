@@ -4,7 +4,7 @@ Get shadows for your design
 
 # Installation
 
-`npm i shadowcss --save`
+`npm i shadowdesign --save`
 
 Then...
 

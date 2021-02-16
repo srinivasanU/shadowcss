@@ -1,0 +1,22 @@
+{
+  "name": "shadowdesign",
+  "version": "1.0.0",
+  "description": "Add Shadow to Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinivasanU/shadowcss.git"
+  },
+  "keywords": [
+    "Shadowcss"
+  ],
+  "author": "Sri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinivasanU/shadowcss/issues"
+  },
+  "homepage": "https://github.com/srinivasanU/shadowcss#readme"
+}
