@@ -9,12 +9,14 @@ Get shadows for your design
 Then...
 
 ```
-import { shadowcss } from 'shadowcss';
+import { shadowcss } from 'shadowdesign';
 
 shadowcss({
       shadow_type: 'soft',
       padding: false
 });
+
+<div class="shadowcss"></div>
 ```
 
 # Options
